@@ -1,0 +1,7 @@
+C:\Users\ivans\source\repos\bancomat\bancomat\bin\Debug\bancomat.exe.config
+C:\Users\ivans\source\repos\bancomat\bancomat\bin\Debug\bancomat.exe
+C:\Users\ivans\source\repos\bancomat\bancomat\bin\Debug\bancomat.pdb
+C:\Users\ivans\source\repos\bancomat\bancomat\obj\Debug\bancomat.csproj.AssemblyReference.cache
+C:\Users\ivans\source\repos\bancomat\bancomat\obj\Debug\bancomat.csproj.CoreCompileInputs.cache
+C:\Users\ivans\source\repos\bancomat\bancomat\obj\Debug\bancomat.exe
+C:\Users\ivans\source\repos\bancomat\bancomat\obj\Debug\bancomat.pdb
